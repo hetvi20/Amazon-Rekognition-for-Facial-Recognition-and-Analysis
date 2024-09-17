@@ -1,6 +1,6 @@
 # Cloud project 2024 Amazon Rekognition for Facial Recognition and Analysis
 
-![Webinar booking website template](portfolio2.png)
+![Webinar booking website template](op.png)
 
 Memory updated
 Cloud Project 2024: Amazon Rekognition for Facial Recognition and Analysis
