@@ -2,7 +2,6 @@
 
 ![Webinar booking website template](op.png)
 
-Memory updated
 Cloud Project 2024: Amazon Rekognition for Facial Recognition and Analysis
 Here, I will learn and practice AWS Amazon Rekognition, building practical projects and strengthening my AWS skills.
 
@@ -27,6 +26,9 @@ Lambda Code in file attact in folder
 
 5. Monitor with CloudWatch
 Use Amazon CloudWatch for performance monitoring and logging issues during Lambda function execution.
+
+If you add this project on resume then Execute steps
+https://medium.com/@coderjourneys/how-to-use-amazon-rekognition-for-facial-recognition-and-analysis-bbe067b814d2
 
 # 📆 Progress
 I will update this README file regularly to document my progress. Here's an overview of my journey so far:
